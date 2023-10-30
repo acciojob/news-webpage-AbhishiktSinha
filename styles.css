@@ -45,7 +45,7 @@ main{
 
     background-color: #d0d0d0;
 
-    >section{
+    >div{
         height: fit-content;
         background-color: white;
 
@@ -54,7 +54,7 @@ main{
         border-radius: 10px;
     }
 
-    >section >h2{
+    >div >h2{
         text-transform: capitalize;
         text-align: center;
 
