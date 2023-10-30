@@ -54,7 +54,7 @@ main{
         border-radius: 10px;
     }
 
-    >div >h2{
+    >div > .section-heading{
         text-transform: capitalize;
         text-align: center;
 
@@ -74,7 +74,7 @@ main{
         }
     }
 
-    .pictorial-news > img{
+    .pictorial-news-section > img{
         width: 100%;
         object-fit: contain;
     }
