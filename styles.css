@@ -77,8 +77,13 @@ main{
         }
     }
 
-    .pictorial-news-section > img{
+    .pictorial-news-section{
+		text-align: center;
+	}
+	
+	.pictorial-news-section > img{
         width: 100%;
         object-fit: contain;
+		margin-block: 2%;
     }
 }
